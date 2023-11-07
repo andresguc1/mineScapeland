@@ -8,4 +8,15 @@ h6 {
 }
 body {
   font-family: serif;
+  background-color: #f0fff8;
 }
+nav,
+footer {
+  background-color: #c0d8df;
+}
+
+.landscape {
+  max-width: 40%;
+  padding: 5;
+}
+
